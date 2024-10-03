@@ -2,7 +2,7 @@ package tema2;
 
 import java.util.Scanner;
 
-public class Diapositiva07 {
+public class Diapositiva07A {
 
 	public static void main(String[] args) {
 
