@@ -19,7 +19,6 @@ public class Diapositiva12 {
 			
 		System.out.println(resultado);
 		
-
 	}
 
 }
